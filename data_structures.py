@@ -67,7 +67,4 @@ for word in words:
         word_count[word] = 1
 print(word_count)
 
-#program to reverse a list and remove duplicates using a set 
-
-#prog that stores student grades in a dic and calculates average grade
 
